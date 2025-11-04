@@ -1,7 +1,7 @@
 # ElysionMind 🔺
 
 <div align="center">
-  <img src="https://pbs.twimg.com/profile_images/1931414087931437056/A7AQgZsK.jpg" width="150" alt="Profile Picture">
+  <img src="https://github.com/user-attachments/assets/298a669c-5cec-4241-9b5f-1af53a7a5ffb" width="150" alt="Profile Picture">
 </div>
 
 ## Hi there! 👋
